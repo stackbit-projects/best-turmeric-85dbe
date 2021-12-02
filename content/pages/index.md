@@ -108,12 +108,13 @@ sections:
           Es importante tener buena condición física para poder tener un mejor
           desempeño en el BMX. Aquí te damos ejercicios que te ayudaran a
           mejorar en el BMX
-      - content: |-
-          ### Seeing What Works
+      - content: >
+          ### TRUCOS BASICOS
 
-          There is no shortage of analytics tools for marketing campaigns —
-          email platforms, data centers, campaign dashboards and app
-          attribution... How to choose the right tools that will work for you.
+
+          Te dejamos una lista de los  trucos básicos, el orden en que debes
+          aprenderlos para tener un mejor progreso y tutoriales paso a paso de
+          como hacer cada truco,
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: small
