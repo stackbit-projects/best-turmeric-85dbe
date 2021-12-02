@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: ¿COMO EMPEZAR EN EL BMX?
-    subtitle: Your guide to B2B marketing in the real world.
+    subtitle: >-
+      Esta guía te dará todo lo que necesitas para hacer BMX sin morir en el
+      intento.
     content: |-
       This book is your go-to guide for all marketing channels. Learn how to
       create effective landing pages, compelling ads, creative copywriting and
