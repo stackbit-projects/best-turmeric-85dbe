@@ -138,7 +138,7 @@ sections:
           *   No hander
           *   Tobogan
         actions:
-          - label: Start learning
+          - label: QUIERO APRENDER BMX
             url: /thank-you
             style: primary
             has_icon: true
