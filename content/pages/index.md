@@ -12,7 +12,7 @@ sections:
       más!!!
     actions:
       - label: QUIERO APRENDER BMX
-        url: /pricing
+        url: /thank-you
         style: primary
         has_icon: true
         icon: arrow-right
