@@ -70,11 +70,13 @@ sections:
   - type: grid_section
     title: Descripción completa de los capitulos.
     grid_items:
-      - content: |-
-          ### Know Your Audience
+      - content: >
+          ### COMO ESCOGER TU BICICLETA PARA EMPEZAR
 
-          Discovery, research and pure intuition: How to slice and dice all the
-          information you can gather about your customers.
+
+          Muchos principiantes cometen en error de escoger la primera bicicleta
+          que ven. Por esto en esta guía aprenderás sobre las medidas de las
+          piezas de las bicicletas y cual es la que mejor se adapta a tí. 
       - content: >-
           ### Performance Marketing
 
