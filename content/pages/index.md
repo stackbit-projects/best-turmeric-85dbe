@@ -125,13 +125,18 @@ sections:
     features:
       - title: TRUCOS BASICOS
         subtitle: 'APRENDERAS EL PASO A PASO DE:'
-        content: |-
-          - Multi-channel marketing plan tutorials
-          - Brand questionnaire and worksheet
-          - Practice PPC campaigns
-          - 1hr consultation with a marketing guru
-          - Landing page templates
-          - Effective sales presentation starter
+        content: |
+          *   Bunny hop
+          *   Manual
+          *   180
+          *   360
+          *   Fullcab
+          *   Manual 180
+          *   Crankflip
+          *   Barspin
+          *   Tiregrap
+          *   No hander
+          *   Tobogan
         actions:
           - label: Start learning
             url: /thank-you
