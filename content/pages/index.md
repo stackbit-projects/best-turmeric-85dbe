@@ -29,14 +29,14 @@ sections:
     features:
       - title: Que aprenderás
         subtitle: Como esta guía te enseñara los secretos de empezar en el BMX
-        content: |-
-          - All you need to know about PPC
-          - How to create a brand that sells
-          - Putting together a multi-channel marketing plan
-          - Tracking, attribution and analytics
-          - Analyzing your competitors
-          - Marketing ads no one can ignore
-          - The social media of today
+        content: |+
+          *   Como escoger tu bicicleta para empezar
+          *   Como arreglar tu bicicleta
+          *   Acondicionamiento físico para BMX
+          *   Ropa y calzado adecuado
+          *   Calentamiento
+          *   Trucos básicos 
+
         actions:
           - label: Start learning
             url: /thank-you
