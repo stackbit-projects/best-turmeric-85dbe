@@ -57,7 +57,7 @@ sections:
           “Gracias a esta guia he conseguido un buen nivel en BMX, mantengo mi
           bicicleta en buen estado y tengo un progreso constante"
         subtitle: 'Jorge Luis Hernández, Rider de nivel intermedio'
-        image: images/hilary-ouse.png
+        image: /images/bunny (1).jpg
         image_alt: Brandon Guidelines
         media_position: left
         media_width: thirty-three
