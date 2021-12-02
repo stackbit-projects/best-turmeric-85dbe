@@ -179,7 +179,7 @@ sections:
     align: center
     background_color: none
   - type: cta_section
-    title: Download the e-book today
+    title: DESCARGA LA GUIA QUE TE LLEVARA AL SIGUIENTE NIVEL
     actions:
       - label: Get the e-book
         url: /pricing
