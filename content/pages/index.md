@@ -97,13 +97,13 @@ sections:
           What you should be writing about, where it should be published, who
           should read it, and what difference does it make. A comprehensive
           guide to content marketing.
-      - content: >-
-          ### Social Media
+      - content: >
+          ### Acondicionamiento físico 
 
 
-          Google, Facebook, TikTok, LinkedIn — what should you use, and how? And
-          how do you know that it's actually working? Build a social media
-          strategy like a pro.
+          Es importante tener buena condición física para poder tener un mejor
+          desempeño en el BMX. Aquí te damos ejercicios que te ayudaran a
+          mejorar en el BMX
       - content: |-
           ### Seeing What Works
 
