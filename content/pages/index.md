@@ -83,11 +83,14 @@ sections:
 
           Know your PPC from your CPA and CTR — a quick start guide to
           performance marketing channels, setups, budgeting and creative.
-      - content: |-
-          ### The Truth About Branding
+      - content: >
+          ### Como arreglar tu bicicleta
 
-          A brand is merely a collection of touchpoints between your company and
-          your customers. Learn how to make those interactions count.
+
+          Cuando comiences a entrenar mas fuerte es muy común que las bicicletas
+          tengan desgaste y se les debe dar mantenimiento. Aquí aprenderás las
+          herramientas que necesitas y las manera correcta de cambiar o darle
+          mantenimiento a tus piezas.
       - content: |-
           ### Content is King
 
