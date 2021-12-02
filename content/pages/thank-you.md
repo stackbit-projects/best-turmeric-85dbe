@@ -5,7 +5,7 @@ sections:
     title: GRACIAS POR TU CONFIANZA!
     subtitle: >-
       Esta guia te sera de gran utilidad, esperamos ver tu progreso en el BMX,
-      compartenos tu progreso en nuestras redes sociales.
+      compartenos tu progreso en nuestras redes sociales. @theridingtrip
     actions:
       - label: Back to homepage
         url: /
