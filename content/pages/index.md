@@ -11,7 +11,7 @@ sections:
       paso a paso de como empezar en el BMX y consigue esos trucos como nadie
       más!!!
     actions:
-      - label: Get the book
+      - label: QUIERO APRENDER BMX
         url: /pricing
         style: primary
         has_icon: true
