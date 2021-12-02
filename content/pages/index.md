@@ -153,7 +153,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: What’s Inside
+      - title: Como saber si esta guía es para ti?
         subtitle: 'Brandon Guidelines, Marketing Guru'
         content: |-
           **Marketing in the real world** is very different than what we learn
