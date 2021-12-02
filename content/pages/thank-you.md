@@ -3,7 +3,9 @@ title: Thank You
 sections:
   - type: hero_section
     title: GRACIAS POR TU CONFIANZA!
-    subtitle: 'Esta guia te sera de gran utilidad, esperamos ver tu progreso en el'
+    subtitle: >-
+      Esta guia te sera de gran utilidad, esperamos ver tu progreso en el BMX,
+      compartenos tu progreso en nuestras redes sociales.
     actions:
       - label: Back to homepage
         url: /
