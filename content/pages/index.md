@@ -77,12 +77,13 @@ sections:
           Muchos principiantes cometen en error de escoger la primera bicicleta
           que ven. Por esto en esta guía aprenderás sobre las medidas de las
           piezas de las bicicletas y cual es la que mejor se adapta a tí. 
-      - content: >-
-          ### Performance Marketing
+      - content: >
+          ### ROPA Y CALZADO PARA BMX
 
 
-          Know your PPC from your CPA and CTR — a quick start guide to
-          performance marketing channels, setups, budgeting and creative.
+          BMX es un deporte extremo, por lo que es importante usar el calzado y
+          ropa adecuada para evitar un accidente. Aquí te damos las mejores
+          recomendaciones de ropa y calzado para que entrenes cómodo y seguro.
       - content: >
           ### Como arreglar tu bicicleta
 
