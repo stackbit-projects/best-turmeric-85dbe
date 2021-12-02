@@ -6,10 +6,10 @@ sections:
     subtitle: >-
       Esta guía te dará todo lo que necesitas para hacer BMX sin morir en el
       intento.
-    content: |-
-      This book is your go-to guide for all marketing channels. Learn how to
-      create effective landing pages, compelling ads, creative copywriting and
-      converting marketing materials for any business.
+    content: >
+      No cometas los errores que han hecho todos los principiantes. Aprende el
+      paso a paso de como empezar en el BMX y consigue esos trucos como nadie
+      más!!!
     actions:
       - label: Get the book
         url: /pricing
