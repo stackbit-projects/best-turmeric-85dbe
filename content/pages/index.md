@@ -92,12 +92,15 @@ sections:
           tengan desgaste y se les debe dar mantenimiento. Aquí aprenderás las
           herramientas que necesitas y las manera correcta de cambiar o darle
           mantenimiento a tus piezas.
-      - content: |-
-          ### Content is King
+      - content: >
+          ### Calentamiento
 
-          What you should be writing about, where it should be published, who
-          should read it, and what difference does it make. A comprehensive
-          guide to content marketing.
+
+          En todos los deportes es importante calentar y BMX no es la excepción,
+          por eso te damos las mejores rutinas de calentamiento que debes hacer
+          antes de cada sesión de entrenamiento en BMX. Estas rutinas te
+          preparan para el alto impacto que tienen tus articulaciones al
+          entrenar,
       - content: >
           ### Acondicionamiento físico 
 
