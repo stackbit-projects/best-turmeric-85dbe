@@ -3,9 +3,7 @@ title: Thank You
 sections:
   - type: hero_section
     title: GRACIAS POR TU CONFIANZA!
-    subtitle: >-
-      Thank you for testing this template. We hope you like it. Have a great
-      day!
+    subtitle: 'Esta guia te sera de gran utilidad, esperamos ver tu progreso en el'
     actions:
       - label: Back to homepage
         url: /
