@@ -156,7 +156,7 @@ sections:
       - title: Como saber si esta guía es para ti?
         subtitle: 'Brandon Guidelines, Marketing Guru'
         content: >
-          ****
+          ***
 
 
           ###### Si estas interesado en saber mas del BMX
@@ -165,14 +165,14 @@ sections:
           ###### Si estas empezando en el BMX
 
 
-          Si haces BMX y sientes que no estas progresando
+          ###### Si haces BMX y sientes que no estas progresando
 
 
-          Si hacías BMX y estas pensando en volver.
+          ###### Si hacías BMX y estas pensando en volver.
 
 
-          En cualquiera de estos casos esta guía será un antes y un después en
-          tu vida como BMX rider.
+          ###### En cualquiera de estos casos esta guía será un antes y un
+          después en tu vida como BMX rider.
         image_alt: Brandon Guidelines Photo
         media_position: right
         media_width: fourty
