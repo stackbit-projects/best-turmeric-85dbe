@@ -181,7 +181,7 @@ sections:
   - type: cta_section
     title: DESCARGA LA GUIA QUE TE LLEVARA AL SIGUIENTE NIVEL
     actions:
-      - label: Get the e-book
+      - label: DESCARGAR GUIA
         url: /pricing
         style: primary
     actions_position: bottom
