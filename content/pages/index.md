@@ -124,7 +124,7 @@ sections:
   - type: features_section
     features:
       - title: TRUCOS BASICOS
-        subtitle: How you'll implement what you learn
+        subtitle: 'APRENDERAS EL PASO A PASO DE:'
         content: |-
           - Multi-channel marketing plan tutorials
           - Brand questionnaire and worksheet
