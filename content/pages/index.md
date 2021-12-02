@@ -182,7 +182,7 @@ sections:
     title: DESCARGA LA GUIA QUE TE LLEVARA AL SIGUIENTE NIVEL
     actions:
       - label: DESCARGAR GUIA
-        url: /pricing
+        url: /thank-you
         style: primary
     actions_position: bottom
     align: center
