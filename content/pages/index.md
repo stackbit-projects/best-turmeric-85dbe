@@ -28,7 +28,7 @@ sections:
   - type: features_section
     features:
       - title: Que aprenderás
-        subtitle: How this book will teach you real world marketing
+        subtitle: Como esta guía te enseñara los secretos de empezar en el BMX
         content: |-
           - All you need to know about PPC
           - How to create a brand that sells
