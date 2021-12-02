@@ -7,7 +7,7 @@ sections:
       Esta guia te sera de gran utilidad, esperamos ver tu progreso en el BMX,
       compartenos tu progreso en nuestras redes sociales. @theridingtrip
     actions:
-      - label: Back to homepage
+      - label: Regresar
         url: /
         style: primary
         has_icon: true
