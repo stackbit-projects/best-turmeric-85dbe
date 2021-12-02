@@ -202,7 +202,6 @@ sections:
           segmenting your audience and understanding today's metrics and
           analytics methodologies — this guide is the only marketing education
           you'll ever need.
-        image: images/brandon-guidelines.jpg
         image_alt: Brandon Guidelines Photo
         media_position: right
         media_width: fourty
